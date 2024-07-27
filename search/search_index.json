@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Minhas anota\u00e7\u00f5es","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Minhas anota\u00e7\u00f5es","text":""},{"location":"build-essential/","title":"instalar o Build-essential no Ubuntu","text":"<p>Primeiro digite no terminal:</p> <pre><code>sudo apt update\n</code></pre> <p>Depois digite:</p> <pre><code>sudo apt install build-essential\n</code></pre>"}]}
