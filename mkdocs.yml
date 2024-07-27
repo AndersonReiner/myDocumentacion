@@ -1,0 +1,7 @@
+site_name: My Documentacion
+site_author: Anderson Reiner N. de Souza
+
+theme: 
+  name: material
+  palette:
+    primary: black
